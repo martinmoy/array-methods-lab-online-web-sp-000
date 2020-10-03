@@ -26,4 +26,4 @@ def using_size(array)
 array.size
 end
 
-using_include(array, element)
+using_include
